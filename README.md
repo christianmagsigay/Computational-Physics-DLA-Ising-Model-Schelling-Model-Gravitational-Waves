@@ -5,7 +5,7 @@ This repository contains four Jupyter notebooks showcasing projects in **computa
 ---
 
 ## 1. Diffusion-Limited Aggregation (DLA)  
-**File:** `Topic 1 - DLA.ipynb`
+**File:** `1. Diffusion-limited Aggregation.ipynb`
 
 This notebook simulates **Diffusion-Limited Aggregation (DLA)**, a process in which particles undergoing random walks (Brownian motion) irreversibly cluster together to form complex, fractal-like structures.
 
@@ -26,7 +26,7 @@ This notebook simulates **Diffusion-Limited Aggregation (DLA)**, a process in wh
 ---
 
 ## 2. The Ising Model  
-**File:** `Topic 2 - Ising Model.ipynb`
+**File:** `2. Ising Model.ipynb`
 
 This notebook explores the **Ising Model**, a foundational model of ferromagnetism in statistical mechanics. The system is simulated using the **Metropolis–Hastings Monte Carlo algorithm** to study phase transitions in a lattice of magnetic spins.
 
@@ -51,7 +51,7 @@ This notebook explores the **Ising Model**, a foundational model of ferromagneti
 ---
 
 ## 3. Schelling’s Model of Segregation  
-**File:** `Topic 3 - Schelling's Model.ipynb`
+**File:** `3. Schelling's Model.ipynb`
 
 An implementation of **Schelling’s Model of Segregation**, an agent-based model demonstrating how local preferences for similar neighbors can lead to large-scale social segregation—even when individual agents are relatively tolerant.
 
@@ -71,7 +71,7 @@ An implementation of **Schelling’s Model of Segregation**, an agent-based mode
 ---
 
 ## 4. Gravitational Wave Signal Processing  
-**File:** `Topic_4_Gravitational_waves.ipynb`
+**File:** `4. Signal_Processing_Gravitational_waves.ipynb`
 
 This notebook focuses on **digital signal processing techniques** used to detect and analyze **gravitational waves**, with an emphasis on events such as the **GW170817 neutron star merger**.
 
